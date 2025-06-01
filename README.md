@@ -1,10 +1,8 @@
-## Hi there 👋
-
-[![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*b21FyqUbowHYAOQDXH0tDw.jpeg)
+![MasterHead](https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg)
 <h1 align="center">Hi 👋, I'm Karina Kumari</h1>
 <h3 align="center">🎯 Aspiring Java Developer | 🌱 SpringBoot Enthusiast <br>
 💡 Currently learning and building real-world Java & SpringBoot projects</h3>
-<img align="right" alt="coding" width="400" src="file:///C:/Users/MISS%20KARINA/Downloads/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat/9700_4_04.jpg">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?ga=GA1.1.477276533.1748760744&semt=ais_items_boosted&w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misskarina&label=Profile%20views&color=0e75b6&style=flat" alt="misskarina" /> </p>
 
 - 🔭 I’m currently working on [Thymeleaf with Spring Boot](https://github.com/Misskarina/Thymespringboot)
