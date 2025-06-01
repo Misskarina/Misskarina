@@ -1,4 +1,4 @@
-![MasterHead](https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg)
+![MasterHead](https://github.com/user-attachments/assets/d3fee3fe-b6b5-45fd-b3c4-6e905e84510d)
 <h1 align="center">Hi 👋, I'm Karina Kumari</h1>
 <h3 align="center">🎯 Aspiring Java Developer | 🌱 SpringBoot Enthusiast <br>
 💡 Currently learning and building real-world Java & SpringBoot projects</h3>
