@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![MasterHead](///C:/Users/MISS KARINA/Downloads/github-header-image.png)](https://Misskarina.io)
+[![MasterHead](https://itznihal.medium.com/beautify-your-github-profile-like-a-pro-93f2a3dacaf5)](https://Misskarina.io)
 <h1 align="center">Hi 👋, I'm Karina Kumari</h1>
 <h3 align="center">🎯 Aspiring Java Developer | 🌱 SpringBoot Enthusiast <br>
 💡 Currently learning and building real-world Java & SpringBoot projects</h3>
