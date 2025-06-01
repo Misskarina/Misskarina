@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/d3fee3fe-b6b5-45fd-b3c4-6e905e84510d)
+![MasterHead](https://github.com/user-attachments/assets/671f7de4-4e5f-4210-afc5-b6eab232a69d)
 <h1 align="center">Hi 👋, I'm Karina Kumari</h1>
 <h3 align="center">🎯 Aspiring Java Developer | 🌱 SpringBoot Enthusiast <br>
 💡 Currently learning and building real-world Java & SpringBoot projects</h3>
