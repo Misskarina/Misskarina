@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?ga=GA1.1.477276533.1748760744&semt=ais_items_boosted&w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misskarina&label=Profile%20views&color=0e75b6&style=flat" alt="misskarina" /> </p>
 
-- 🔭 I’m currently working on [Thymeleaf with Spring Boot](https://github.com/Misskarina/Thymespringboot)
+- 🔭 I’m currently working on [LiveTalk: A Real-Time Chat Application](https://github.com/Misskarina/)
 
 - 🌱 I’m currently learning **Java ,DSA, SpringBoot**
 
